@@ -25,3 +25,5 @@ Generated\ Files/
 *.sln
 *.vcxproj
 *.vcxproj.filters
+
+bin/*
